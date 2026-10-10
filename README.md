@@ -1,1 +1,3 @@
-niobiumOS (formerly known as netherOS V2) is a passion project that simulates an operating system in the web browser (commonly known as a “webOS”). It primarily uses HTML, CSS, and Javascript as its foundation and uses a monochrome / greyscale user interface design language accompanied by occasional colours.
+niobiumOS (formerly known as netherOS V2) is a passion project that simulates an operating system in the web browser (commonly known as a “webOS”). 
+It primarily uses HTML, CSS, and Javascript as its foundation and uses a monochrome / greyscale user interface design language accompanied by occasional colours.
+This project is still in heavy development and has no source code yet.
