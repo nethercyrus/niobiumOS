@@ -8,7 +8,7 @@ This project is still in heavy development and source code will not be available
 </p>
 
 Desktop Screenshot
-<img width="1710" height="1071" alt="Screenshot 2026-10-11 at 3 09 20 AM" src="https://github.com/user-attachments/assets/ea66f6c3-3875-4368-9ed9-cb971297c3f7" />
+<img width="1710" height="1073" alt="desktopfinal" src="https://github.com/user-attachments/assets/a87dd0de-08d6-4266-b15f-cffd14815279" />
 
 Lockscreen Screenshot
-<img width="1701" height="1073" alt="Screenshot 2026-10-11 at 2 51 47 AM" src="https://github.com/user-attachments/assets/7b300027-24bb-4f83-b515-f71eca2d10cf" />
+<img width="1710" height="1072" alt="lockscreenfinal" src="https://github.com/user-attachments/assets/4f02998c-b641-4f37-b21d-82e1fd7bf898" />
