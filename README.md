@@ -5,10 +5,10 @@ It primarily uses HTML, CSS, and Javascript as its foundation and uses a monochr
 This project is still in heavy development and work is not final.
 (some elements inspired from Windows and macOS)
 
-niobium Laboratories - niobiumOS
+niobiumOS - from niobium Laboratories
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2804def2-13b4-4423-ae9b-364e9a3a0017" width="840" alt="niobiumOS Banners">
+  <img width="840" alt="niobiumosbanner" src="https://github.com/user-attachments/assets/22e342b0-f47c-4573-ac14-c5c79684ab5a" />
 </p>
 
 Desktop Screenshot 
