@@ -8,7 +8,7 @@ This project is still in heavy development and work is not final.
 niobiumOS - from niobium Laboratories
 
 <p align="center">
-  <img width="840" alt="niobiumosbanner" src="https://github.com/user-attachments/assets/22e342b0-f47c-4573-ac14-c5c79684ab5a" />
+  <img width="840" alt="niobiumOSBanner1" src="https://github.com/user-attachments/assets/ffd8cbcc-5689-45a8-93d7-a1cc7d696d9b" />
 </p>
 
 Desktop Screenshot 
