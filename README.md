@@ -1,6 +1,6 @@
 # niobiumOS - an operating system in the browser
 
-niobiumOS **(formerly known as netherOS V2 until 10/10/26 where it formally changed to niobiumOS)** is a solo project that simulates an **operating system in the web browser** (commonly known as a “webOS”). 
+niobiumOS _**(formerly known as netherOS V2 until 10/10/26 where it formally changed to niobiumOS)**_ is a solo project that simulates an **operating system in the web browser** (commonly known as a “webOS”). 
 It primarily uses **HTML, CSS, and Javascript** as its foundation and uses a monochrome / greyscale user interface (with a menu bar) design language accompanied by occasional colours.
 This project is still in heavy development and work is not final.
 (some elements inspired from Windows and macOS)
