@@ -18,7 +18,7 @@ Youtube video showing the basic concept of niobiumOS in the browser (outdated co
 https://www.youtube.com/watch?v=WufNBe_18VE
 
 Desktop Screenshot 
-<img width="1710" height="1072" alt="finaldesktop" src="https://github.com/user-attachments/assets/160c662b-29ca-42d8-b17b-5f8f69507e7d" />
+<img width="1720" alt="finaldesktop" src="https://github.com/user-attachments/assets/160c662b-29ca-42d8-b17b-5f8f69507e7d" />
 
 Lockscreen Screenshot
-<img width="1710" height="1073" alt="finallockscreen" src="https://github.com/user-attachments/assets/9f1cbb2f-00ca-43d3-99c5-7350fbbb03f8" />
+<img width="1720" alt="finallockscreen" src="https://github.com/user-attachments/assets/9f1cbb2f-00ca-43d3-99c5-7350fbbb03f8" />
